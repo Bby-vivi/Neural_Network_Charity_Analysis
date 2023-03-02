@@ -18,6 +18,10 @@
     + ASK_AMT
     + IS_SUCCESSFUL
 
+## Sources
+ * tensorflow libraries
+ * charity_data.csv
+ * colab
 
 
 
